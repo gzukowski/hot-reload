@@ -1,1 +1,0 @@
-echo "# hot-reload" >> README.md
